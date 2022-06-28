@@ -1,3 +1,2 @@
-# rsschool-cv
-https://Nesmeian.github.io/rsschool-cv/cv
-https://Nesmeian.github.io/rsschool-cv/
+# rsschool-cv 
+https://nesmeian.github.io/rsschool-cv/
